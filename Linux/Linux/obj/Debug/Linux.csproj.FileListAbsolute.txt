@@ -1,0 +1,13 @@
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\bin\Debug\Linux.exe.config
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\bin\Debug\Linux.exe
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\bin\Debug\Linux.pdb
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.csproj.AssemblyReference.cache
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.Properties.Resources.resources
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.csproj.GenerateResource.cache
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.csproj.CoreCompileInputs.cache
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.exe
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.pdb
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.MainForm.resources
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.HelpForm1.resources
+C:\Users\Ytgjfgy\source\repos\Linux\Linux\obj\Debug\Linux.LinuxForm.resources

@@ -20,14 +20,31 @@ namespace Linux
             if (linName == "Linux Debian")
             {
                 pictureBox1.Load("../../Pictures/Linux Debian.png");
+                textBox1.Text = "Название Linux Дистрибутива:Linux Debian" +
+                    System.Environment.NewLine +
+                    "Сложность перехода на Windows:Средняя(Система  схожа с Windows)";
+                    
+
+
             }
 
-            if (linName == "Linux mint")
+            if (linName == "Linux Mint")
 
             {
-                pictureBox1.Load("../../Pictures/Linux mint.png");
+                pictureBox1.Load("../../Pictures/Linux Mint.png");
+                textBox1.Text = "Название Linux Дистрибутива:Linux Mint" +
+                   System.Environment.NewLine +
+                   "Сложность перехода на Windows:Легкая(Система  очень похожа на Windows)";
             }
 
+            if (linName == "Linux Kali")
+
+            {
+                pictureBox1.Load("../../Pictures/Linux Kali.jpg");
+                textBox1.Text = "Название Linux Дистрибутива:Linux Kali" +
+                   System.Environment.NewLine +
+                   "Сложность перехода на Windows:Тяжело(Нужно много использовать терминал)";
+            }
 
 
 
@@ -37,6 +54,11 @@ namespace Linux
 
 
         private void LinuxForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

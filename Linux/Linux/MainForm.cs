@@ -54,5 +54,11 @@ namespace Linux
             LinuxForm lin = new LinuxForm(button1.Text);
             lin.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            LinuxForm lin = new LinuxForm(button3.Text);
+            lin.ShowDialog();
+        }
     }
 }

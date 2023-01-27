@@ -43,22 +43,18 @@ namespace Linux
             hf.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            LinuxForm lin = new LinuxForm(button2.Text);
-            lin.ShowDialog();
-        }
+  
 
         private void button1_Click(object sender, EventArgs e)
         {
-            LinuxForm lin = new LinuxForm(button1.Text);
-            lin.ShowDialog();
+          Button btn =(Button)sender;
+            LinuxForm lin = new LinuxForm(btn.Text);
+            lin.Show();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
-            LinuxForm lin = new LinuxForm(button3.Text);
-            lin.ShowDialog();
+
         }
     }
 }
